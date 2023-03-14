@@ -1,0 +1,6 @@
+@api = http://localhost:3000
+
+
+
+GET http://200.7.249.21:90/pasarela/api/recover?consulta=InformacionPersonal&cedula=0919868752
+x-api-key:87sgtY$$98yu7t6jIo9U6yTrcx4R5Tyf_
